@@ -1,0 +1,51 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          SOURCE_BRANCH: master
+          TARGET_BRANCH: gh-pages
+          SOURCE_BRANCH_DIR: ${SOURCE_BRANCH}-dir
+          TARGET_BRANCH_DIR: ${TARGET_BRANCH}-dir
+      - name: Checkout ${SOURCE_BRANCH}
+        uses: actions/checkout@v2
+        with:
+          ref: ${SOURCE_BRANCH}
+          fetch-depth: '0'
+          path: '${SOURCE_BRANCH_DIR}'
+
+      - name: Checkout ${TARGET_BRANCH}
+        uses: actions/checkout@v2
+        with:
+          ref: ${TARGET_BRANCH}
+          fetch-depth: '0'
+          path: '${TARGET_BRANCH_DIR}'
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "ShotaAk"
+          git config --global user.email "macakasit@gmail.com"
+
+      - name: Sync & Push to ${TARGET_BRANCH}
+        run: |
+          cd ${GITHUB_WORKSPACE}/${SOURCE_BRANCH_DIR}
+          # 最新コミットのハッシュを取得し、${TARGET_BRANCH}のコミットメッセージに使う
+          HASH=`git rev-parse --short HEAD`
+          # rsyncでファイルをコピー
+          # -a:とりあえず付けとけ -v:動作ログを見えるように --delete:sourceにないファイルを削除
+          # --exclude:除外するファイル
+          rsync -av --delete --exclude '.*' ${GITHUB_WORKSPACE}/${SOURCE_BRANCH_DIR}/ ${GITHUB_WORKSPACE}/${TARGET_BRANCH_DIR}
+          cd ${GITHUB_WORKSPACE}/${TARGET_BRANCH_DIR}
+          # exit if nothing to commit
+          git status | grep -q "nothing" && exit 0
+          # commit updated files
+          git add .
+          git commit -m "deploy: ${HASH}"
+          git push -q origin ${TARGET_BRANCH}
