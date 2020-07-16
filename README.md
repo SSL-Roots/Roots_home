@@ -2,7 +2,7 @@
 
 **コンテンツを[Wiki](https://github.com/SSL-Roots/Roots_home/wiki) から移植中です。**
 
-<img src=https://github.com/SSL-Roots/Roots_home/blob/master/image/4X5A6529.JPG width=800px />
+![image/4X5A6529.JPG](/image/4X5A6529.JPG)
 
 ## RootsはSSLへの参加者を増やすことを目指したチームです
 
