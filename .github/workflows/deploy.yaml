@@ -8,11 +8,11 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    - env:
-        SOURCE_BRANCH: master
-        TARGET_BRANCH: gh-pages
-        SOURCE_BRANCH_DIR: ${SOURCE_BRANCH}-dir
-        TARGET_BRANCH_DIR: ${TARGET_BRANCH}-dir
+    env:
+      SOURCE_BRANCH: master
+      TARGET_BRANCH: gh-pages
+      SOURCE_BRANCH_DIR: ${SOURCE_BRANCH}-dir
+      TARGET_BRANCH_DIR: ${TARGET_BRANCH}-dir
     steps:
       - name: Checkout ${SOURCE_BRANCH}
         uses: actions/checkout@v2
