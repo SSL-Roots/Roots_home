@@ -12,7 +12,7 @@ jobs:
       SOURCE_BRANCH: "master"
       TARGET_BRANCH: "gh-pages"
     steps:
-      - name: Checkout ${SOURCE_BRANCH}
+      - name: Checkout ${{env.SOURCE_BRANCH}}
         uses: actions/checkout@v2
         with:
           ref: ${{env.SOURCE_BRANCH}}
