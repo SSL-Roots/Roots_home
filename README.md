@@ -30,6 +30,10 @@ RootsはRoboCup JapanOpen2019へ参加し、準優勝しました。
 
 [ロボット - JapanOpen 2019 Ver](./docs/roots_main/robot_jo2019.md)
 
+### 2020/07 存在しないページを作成
+
+[ここからどうぞ](./doc/dummy.md)
+
 
 ## Contact
 - [RoboCup SSL 日本リーグ Slack(どなたでも参加できます）](https://join.slack.com/t/robocup-ssl-japan/shared_invite/enQtMzU5ODI5MzE4MzU4LWFmNWI4OGYzNjJkNGQ1NGNlOTA3ZGE4MzFkNmVkZGMyMjczMWZhODlmZDY3YjA3OWJhZDdiNGU4MGU0Y2MxMjM)
