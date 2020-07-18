@@ -10,13 +10,13 @@ RoboCup を知らない人、参加したい人、すでに参加している人
 
 ## コンテンツ
 
-|[RoboCup SSLについて](./doc/robocup_ssl/main.md)|[Rootsについて](./doc/roots_main/main.md)| 
+|[RoboCup SSLについて](./docs/robocup_ssl/main.md)|[Rootsについて](./docs/roots_main/main.md)| 
 |:---:|:---:|
 |![](./image/roots_logo_small.png)|![](./image/roots_logo_small.png)|
 
 ## 設計資料
 
-|[Mechanical](./doc/roots_mechanical/main.md)|[Electrical](./doc/roots_electrical/main.md)|[Software](./doc/roots_software/main.md)|
+|[Mechanical](./docs/roots_mechanical/main.md)|[Electrical](./docs/roots_electrical/main.md)|[Software](./docs/roots_software/main.md)|
 |:----:|:----:|:----:|
 |![](./image/roots_logo_small.png)|![](./image/roots_logo_small.png)|![](./image/roots_logo_small.png)|
 
@@ -28,7 +28,7 @@ RoboCup を知らない人、参加したい人、すでに参加している人
 RootsはRoboCup JapanOpen2019へ参加し、準優勝しました。  
 以下で、そのロボットのすべてのアセットを公開しています。
 
-[ロボット - JapanOpen 2019 Ver](./doc/roots_main/robot_jo2019.md)
+[ロボット - JapanOpen 2019 Ver](./docs/roots_main/robot_jo2019.md)
 
 
 ## Contact
