@@ -6,7 +6,7 @@ RoboCup を知らない人、参加したい人、すでに参加している人
 
 **コンテンツを[Wiki](https://github.com/SSL-Roots/Roots_home/wiki) から移植中です。**
 
-![](https://ssl-roots.github.io/Roots_home/images/4X5A6529.JPG)
+![](./images/4X5A6529.JPG)
 
 ## コンテンツ
 

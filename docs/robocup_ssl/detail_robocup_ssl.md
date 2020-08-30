@@ -5,7 +5,7 @@
 この中に，ボールを蹴る機構，車輪，ドリブル機構，基板やバッテリーを収めます．
 
 ## システム構成
-![システム構成図](https://github.com/SSL-Roots/Roots_home/wiki/img_system/system.jpg)
+![システム構成図](../../images/robocup_ssl/ssl_system.jpg)
 
 ロボットがサッカーをするためには，ロボットの位置，ボールの位置がわからなければなりません．
 そのために，RoboCup SSLではフィールド上に4台のカメラを取り付け，ロボットとボールの位置を検出します．
@@ -32,4 +32,4 @@ RoboCup SSLではこのようにしてロボットを自動で動かし，サッ
 ## 詳しいルールを読む
 詳細なルールはSSLの公式サイトで配布されています．
 
-- [ROBOCUP SMALL SIZE LEAGUE | RULES](https://ssl.robocup.org/rules/)
+- [ROBOCUP SMALL SIZE LEAGUE, RULES](https://ssl.robocup.org/rules/)
