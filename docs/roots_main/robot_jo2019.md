@@ -49,8 +49,8 @@ GitHubリポジトリやmbedリポジトリにアップロードしたデータ�
 
 ### 写真
 
-![robots_front](https://github.com/SSL-Roots/Roots_home/blob/master/image/2019/robots_front.jpeg)
-![robots_top](https://github.com/SSL-Roots/Roots_home/blob/master/image/2019/robots_top.jpeg)
-![robot_body_side](https://github.com/SSL-Roots/Roots_home/blob/master/image/2019/robot_body_side.jpeg)
-![robot_body_top](https://github.com/SSL-Roots/Roots_home/blob/master/image/2019/robot_body_top.jpeg)
-![lined_up_robots](https://github.com/SSL-Roots/Roots_home/blob/master/image/2019/lined_up_robots.jpeg)
+![robots_front](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/robots_front.jpeg)
+![robots_top](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/robots_top.jpeg)
+![robot_body_side](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/robot_body_side.jpeg)
+![robot_body_top](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/robot_body_top.jpeg)
+![lined_up_robots](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/lined_up_robots.jpeg)

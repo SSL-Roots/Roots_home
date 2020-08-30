@@ -6,19 +6,19 @@ RoboCup を知らない人、参加したい人、すでに参加している人
 
 **コンテンツを[Wiki](https://github.com/SSL-Roots/Roots_home/wiki) から移植中です。**
 
-![](https://ssl-roots.github.io/Roots_home/image/4X5A6529.JPG)
+![](https://ssl-roots.github.io/Roots_home/images/4X5A6529.JPG)
 
 ## コンテンツ
 
 |[RoboCup SSLについて](./docs/robocup_ssl/main.md)|[Rootsについて](./docs/roots_main/main.md)| 
 |:---:|:---:|
-|![](./image/roots_logo_small.png)|![](./image/roots_logo_small.png)|
+|![](./images/roots_logo_small.png)|![](./images/roots_logo_small.png)|
 
 ## 設計資料
 
 |[Mechanical](./docs/roots_mechanical/main.md)|[Electrical](./docs/roots_electrical/main.md)|[Software](./docs/roots_software/main.md)|
 |:----:|:----:|:----:|
-|![](./image/roots_logo_small.png)|![](./image/roots_logo_small.png)|![](./image/roots_logo_small.png)|
+|![](./images/roots_logo_small.png)|![](./images/roots_logo_small.png)|![](./images/roots_logo_small.png)|
 
 
 ## NEWS
