@@ -1,14 +1,14 @@
-# ロボット - JapanOpen 2019 Ver
+# 設計データ JapanOpen 2019 Ver.
 
-↓質問があればRootsのツイッターアカウントに気軽に聞いてください。
+ロボカップジャパンオープン2019で製作したロボットとソフトウェアの設計データです。
 
-[Roots Twitter公式アカウント](https://twitter.com/roots_ssl)
+![robots_top](../../images/roots_main/2019/robots_top.jpeg)
 
-### 戦略ソフト
+## 戦略ソフト
 
 [CON-SAI2](https://github.com/SSL-Roots/consai2)
 
-### メカ
+## メカ
 
 [3D CAD Model](https://a360.co/2mJYBCH)
 
@@ -20,7 +20,7 @@
 - [【SSL】大解剖❗Rootsのロボットはここがスゴい！第４回～キッカー編～](https://kuwango.hatenablog.com/entry/2019/09/23/075951)
 - [【SSL】大解剖❗Rootsのロボットはここがスゴい！第５回～ドリブラ本体編～](https://kuwango.hatenablog.com/entry/2019/10/09/233917)
 
-### 回路
+## 回路
 
 [回路図(PDF)](https://drive.google.com/open?id=15ZcZXkTQO8EKfN9fWiDip_qolnBo0fbB)  
 [回路概要(PDF)](https://drive.google.com/open?id=1eQ57YusMVFL-WygFOJoyoH8jbAvdra5-)  
@@ -33,10 +33,10 @@
 
 ボールセンサ基板とエンコーダ基板は、2017年Verと同じです。
 
-[ボールセンサ基板](https://github.com/SSL-Roots/Roots_home/wiki/%E3%83%AD%E3%83%9C%E3%82%AB%E3%83%83%E3%83%97SSL%E3%83%9E%E3%82%B7%E3%83%B3%E7%94%A8%E5%9B%9E%E8%B7%AF-%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%B5%E5%9F%BA%E6%9D%BF)  
-[エンコーダ基板](https://github.com/SSL-Roots/Roots_home/wiki/%E3%83%AD%E3%83%9C%E3%82%AB%E3%83%83%E3%83%97SSL%E3%83%9E%E3%82%B7%E3%83%B3%E7%94%A8%E5%9B%9E%E8%B7%AF-%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E5%9F%BA%E6%9D%BF)
+[ボールセンサ基板](../roots_electrical/detail_ball_sensor_pcb.md)
+[エンコーダ基板](../roots_electrical/detail_encoder_pcb.md)
 
-### ライセンス
+## ライセンス
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
 
@@ -47,10 +47,18 @@
 GitHubリポジトリやmbedリポジトリにアップロードしたデータのライセンスについては、
 それぞれのライセンスファイルを参照してください。
 
-### 写真
+## その他
 
-![robots_front](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/robots_front.jpeg)
-![robots_top](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/robots_top.jpeg)
-![robot_body_side](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/robot_body_side.jpeg)
-![robot_body_top](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/robot_body_top.jpeg)
-![lined_up_robots](https://github.com/SSL-Roots/Roots_home/blob/master/images/2019/lined_up_robots.jpeg)
+↓質問があればRootsのツイッターアカウントに気軽に聞いてください。
+
+[Roots Twitter公式アカウント](https://twitter.com/roots_ssl)
+
+## 写真
+
+![robots_front](../../images/roots_main/2019/robots_front.jpeg)
+    
+![robot_body_side](../../images/roots_main/2019/robot_body_side.jpeg)
+    
+![robot_body_top](../../images/roots_main/2019/robot_body_top.jpeg)
+    
+![lined_up_robots](../../images/roots_main/2019/lined_up_robots.jpeg)
