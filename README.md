@@ -1,6 +1,6 @@
 # Roots - RoboCup SSL Team
 
-ここはRoboCup SSLに参加するチーム**Roots**のウェブサイトです。
+ここは**RoboCup SSL**(Small Size League, ロボカップ小型ロボットリーグ)に参加するチーム**Roots**のウェブサイトです。
 
 RoboCup SSLを**知らない人**、**参加したい人**、**すでに参加している人**に向けて
 設計資料を公開しています。
