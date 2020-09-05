@@ -5,10 +5,6 @@
 RoboCup SSLを**知らない人**、**参加したい人**、**すでに参加している人**に向けて
 設計資料を公開しています。
 
-<!-- ![](./images/4X5A6529.JPG) -->
-
-## コンテンツ
-
 |[RoboCup SSLについて](./docs/robocup_ssl/main.md)|[Rootsについて](./docs/roots_main/main.md)| 
 |:---:|:---:|
 |<a href="./docs/robocup_ssl/main.html"><img src="./images/robocup_ssl/robocup_ssl_jo2019.jpg" width="500px"/></a>|[![](./images/roots_logo_small.png)](./docs/roots_main/main.html)|
