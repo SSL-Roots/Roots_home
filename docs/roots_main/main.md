@@ -1,6 +1,8 @@
-# Roots Main
+# Roots
 
-Rootsに関わる情報を紹介します。
+Rootsの情報を紹介します。
+
+![](../../images/roots_logo_small.png)
 
 - [Rootsとは](./detail_roots.md)
 
@@ -19,3 +21,5 @@ Rootsに関わる情報を紹介します。
 
 - [開発に使用しているツール](./development_tools.md)
 - [ロボカップフィールドをセッティングする](./field_setting.md)
+
+[←Homeに戻る](../../README.md)

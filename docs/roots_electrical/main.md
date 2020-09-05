@@ -1,6 +1,8 @@
 # Roots Electrical information
 
-この階層ではRootsの電気的設計資料を紹介
+Rootsの回路設計資料を紹介します。
+
+<img src="../../images/roots_electrical/roots_main_board.JPG" width="500px" />
 
 ## 回路基板一覧
 
@@ -15,3 +17,5 @@
 ## その他
 - [プログラム解説　メインボード編](./mainboard_program.md)
 - [Elecrowへの基板発注方法](./how_to_order_elecrow_pcb.md)
+
+[←Homeに戻る](../../README.md)

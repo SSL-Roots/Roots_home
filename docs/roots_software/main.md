@@ -1,3 +1,7 @@
 # Roots Mechanical information
 
-この階層ではRootsのソフト的設計資料を紹介
+Rootsのソフト設計資料を紹介します。
+
+<img src="../../images/roots_software/consai2.png" width="500px" />
+
+[←Homeに戻る](../../README.md)
