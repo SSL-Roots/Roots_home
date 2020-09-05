@@ -2,7 +2,10 @@
 
 Rootsの回路設計資料を紹介します。
 
+**※最新の設計資料は[設計データ JapanOpen 2019 Ver.](../roots_main/robot_jo2019.md)を参照してください。**
+
 <img src="../../images/roots_electrical/roots_main_board.JPG" width="500px" />
+
 
 ## 回路基板一覧
 
