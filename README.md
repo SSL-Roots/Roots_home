@@ -18,7 +18,7 @@ RoboCup SSLを**知らない人**、**参加したい人**、**すでに参加�
 
 ## NEWS
 
-### 2019/09 Roots ウェブサイトのコンテンツをGitHub Pagesに移行
+### 20/09 Roots ウェブサイトのコンテンツをGitHub Pagesに移行
 
 ページの編集方法は[CONTRIBUTING.md](https://github.com/SSL-Roots/Roots_home/blob/master/CONTRIBUTING.md)
 を参照してください。
