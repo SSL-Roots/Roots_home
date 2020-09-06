@@ -29,5 +29,8 @@ https://docs.google.com/spreadsheets/d/1pFAowyvhsac7jMB7xxNabcVMEUmTnnNXP4YJuslI
 
 上の画像の図は、[CADデータページ](http://a360.co/2epI1Rg)にあるメニュー「分解モデル」から確認できます。
 
+## 3D View
+<iframe src="https://myhub.autodesk360.com/ue290e639/shares/public/SHabee1QT1a327cf2b7aa23114479f95281c?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス</a>の下に提供されています。
