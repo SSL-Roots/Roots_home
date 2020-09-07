@@ -37,6 +37,10 @@ RootsはRoboCup JapanOpen2019へ参加し、準優勝しました。
 
 - 本ウェブサイトについてのお問い合わせは[SSL-Roots/Roots_homeのIssue](https://github.com/SSL-Roots/Roots_home/issues)に投稿お願いします。
 
+## アクセスカウンタ
+
+<iframe src="https://pixe.la/v1/users/shotaak/graphs/roots-count.html?mode=simple-short" height="300" width="250" frameborder="0"></iframe>
+
 ---
 
 (C) 2017 - 2020 Roots
