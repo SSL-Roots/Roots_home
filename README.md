@@ -18,7 +18,13 @@ RoboCup SSLを**知らない人**、**参加したい人**、**すでに参加�
 
 ## NEWS
 
-### 20/09 Roots ウェブサイトのコンテンツをGitHub Pagesに移行
+### 2020/09 Maker Faire Tokyo 2020に出展します
+
+2020年10月3, 4日に開催される[Maker Faire Tokyo 2020](https://makezine.jp/event/mft2020/)に出展します。
+
+[Rootsの展示内容はこちら](./docs/roots_main/event_mft2020.md)
+
+### 2020/09 Roots ウェブサイトのコンテンツをGitHub Pagesに移行しました
 
 ページの編集方法は[CONTRIBUTING.md](https://github.com/SSL-Roots/Roots_home/blob/master/CONTRIBUTING.md)
 を参照してください。
