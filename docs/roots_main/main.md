@@ -17,6 +17,12 @@ Rootsの情報を紹介します。
 - [Roots Mechanical](../roots_mechanical/main.md)、
 - [Roots Software](../roots_software/main.md)
 
+## 参加イベント一覧
+
+### 2020年
+
+- [MakerFaireTokyo2020](./event_mft2020.md)
+
 ## その他
 
 - [開発に使用しているツール](./development_tools.md)
