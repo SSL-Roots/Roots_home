@@ -1,0 +1,14 @@
+site_name: Roots Home
+theme: windmill
+nav:
+  - Home: index.md
+  - ロボカップ:
+    - ロボカップとは: robocup_ssl/about_robocup.md
+    - ロボカップSSLとは: robocup_ssl/detail_robocup_ssl.md
+  - Roots:
+    - Rootsとは: roots_main/main.md
+    - 開発ツール一覧: roots_main/development_tools.md
+  - メカ設計資料: roots_mechanical/main.md
+  - 回路設計資料: roots_electrical/main.md
+  - ソフト設計資料: roots_software/main.md
+    
