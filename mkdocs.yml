@@ -1,8 +1,51 @@
 site_name: Roots Home
-theme: windmill
+theme:
+  name: material  # MkDocsで使うテーマ
+  # --- 下記サイトを参考に調整 ---
+  # https://squidfunk.github.io/mkdocs-material-insiders/setup/changing-the-colors/）
+  palette:
+    scheme: default  # ページのカラースキーム default、slate(ダークモード)
+    primary: white  # メインカラー
+    accent: deep orange  # リンクやボタンにカーソル当てたときのカラー
+  font: 
+    text: Noto Sans JP  # デフォルトはRoboto
+    code: Roboto Mono  # コードブロックのフォント、デフォルトは Roboto Mono
+  language: ja
+  logo: img/site_logo.png  # ページ左上のロゴ
+  favicon: img/site_favicon.png  # ファビコン（ブラウザのタブに表示されるやつ）
+  # features: 
+    # - navigation.instant  # XHRがどうのこうの
+    # - navigation.tabs  # ページ上にタブを付けられる
+  # google_analytics:
+  icon:
+    repo: fontawesome/brands/github  # ページ右上に表示するリポジトリのアイコン
+  
+plugins:
+  - search:  # 検索機能
+      lang:
+        - ja
+        - en
+
+# ページのフッターにつけるコンテンツ
+extra:
+  social:
+     - icon: fontawesome/brands/twitter
+       link: https://twitter.com/roots_ssl
+       name: Roots Twitterアカウント
+     - icon: fontawesome/brands/github
+       link: https://github.com/SSL-Roots
+       name: Roots GitHubページ
+copyright: Copyright &copy; 2017 - 2020 Roots
+
+# ページ右上に表示するリポジトリのリンク
+repo_url: https://github.com/SSL-Roots/Roots_home
+repo_name: SSL-Roots/Roots_home
+edit_uri: edit/master/docs/  # 各ページに編集ボタン（鉛筆マーク）を表示。 "" で非表示
+
 nav:
   - Home: index.md
   - ロボカップ:
+    - メイン: robocup_ssl/main.md
     - ロボカップとは: robocup_ssl/about_robocup.md
     - ロボカップSSLとは: robocup_ssl/detail_robocup_ssl.md
   - Roots:
