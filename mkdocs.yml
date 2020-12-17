@@ -42,6 +42,7 @@ repo_url: https://github.com/SSL-Roots/Roots_home
 repo_name: SSL-Roots/Roots_home
 edit_uri: edit/master/docs/  # 各ページに編集ボタン（鉛筆マーク）を表示。 "" で非表示
 
+# 以下、ページ階層の設定
 nav:
   - Home: index.md
   - ロボカップ:
@@ -55,5 +56,5 @@ nav:
   - 回路班: roots_electrical/main.md
   - 戦略・ソフト班: roots_software/main.md
   - リンク集: links.md
-  - ライセンス: license.md
+  - このウェブサイトのライセンス: license.md
     
