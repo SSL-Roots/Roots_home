@@ -5,17 +5,6 @@
 RoboCup SSLを**知らない人**、**参加したい人**、**すでに参加している人**に向けて
 設計資料を公開しています。
 
-|[RoboCup SSLについて](./docs/robocup_ssl/main.md)|[Rootsについて](./docs/roots_main/main.md)| 
-|:---:|:---:|
-|<a href="./docs/robocup_ssl/main.html"><img src="./images/robocup_ssl/robocup_ssl_jo2019.jpg" width="500px"/></a>|[![](./images/roots_logo_small.png)](./docs/roots_main/main.html)|
-
-## 設計資料
-
-|[Mechanical](./docs/roots_mechanical/main.md)|[Electrical](./docs/roots_electrical/main.md)|[Software](./docs/roots_software/main.md)|
-|:----:|:----:|:----:|
-|<a href="./docs/roots_mechanical/main.html"><img src="./images/roots_mechanical/robot_barabara.JPG" width="400px"/></a>|<a href="./docs/roots_electrical/main.html"><img src="./images/roots_electrical/roots_main_board.JPG" width="400px"/></a>|<a href="./docs/roots_software/main.html"><img src="./images/roots_software/consai2.png" width="400px"/></a>|
-
-
 ## NEWS
 
 ### 2020/09 Maker Faire Tokyo 2020に出展します
@@ -46,9 +35,3 @@ RootsはRoboCup JapanOpen2019へ参加し、準優勝しました。
 ## アクセスカウンタ
 
 <iframe src="https://pixe.la/v1/users/shotaak/graphs/roots-count.html?mode=simple-short" height="300" width="250" frameborder="0"></iframe>
-
----
-
-(C) 2017 - 2020 Roots
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This page is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

@@ -51,7 +51,9 @@ nav:
   - Roots:
     - Rootsとは: roots_main/main.md
     - 開発ツール一覧: roots_main/development_tools.md
-  - メカ設計資料: roots_mechanical/main.md
-  - 回路設計資料: roots_electrical/main.md
-  - ソフト設計資料: roots_software/main.md
+  - 機械班: roots_mechanical/main.md
+  - 回路班: roots_electrical/main.md
+  - 戦略・ソフト班: roots_software/main.md
+  - リンク集: links.md
+  - ライセンス: license.md
     
