@@ -42,19 +42,51 @@ repo_url: https://github.com/SSL-Roots/Roots_home
 repo_name: SSL-Roots/Roots_home
 edit_uri: edit/master/docs/  # 各ページに編集ボタン（鉛筆マーク）を表示。 "" で非表示
 
+markdown_extensions:
+  - attr_list  # 画像のalignを設定できる
+  - pymdownx.tabbed  # タブで文章を切り替えられる
+  - admonition  # Warningとかの飾り付けができる
+  - pymdownx.highlight  # コードブロック用
+  - pymdownx.superfences  # コードブロック用
+  - pymdownx.emoji:  # アイコンが使える
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+site_url: https://ssl-roots.github.io/Roots_home/  # 404を正しく表示させるために必要
+
 # 以下、ページ階層の設定
 nav:
   - Home: index.md
-  - ロボカップ:
-    - メイン: robocup_ssl/main.md
+  - ロボカップSSL:
     - ロボカップとは: robocup_ssl/about_robocup.md
-    - ロボカップSSLとは: robocup_ssl/detail_robocup_ssl.md
+    - ロボカップSSLの特徴: robocup_ssl/detail_robocup_ssl.md
+    - ロボカップSSLに参加する: robocup_ssl/join_robocup_ssl.md
+    - ロボットに必要な機能: robocup_ssl/required_functions_of_robots.md
+    - 試合で必要なロボットの動き: robocup_ssl/required_actions_for_the_game.md
+    - 人間の役割: robocup_ssl/human_roles.md
   - Roots:
-    - Rootsとは: roots_main/main.md
-    - 開発ツール一覧: roots_main/development_tools.md
-  - 機械班: roots_mechanical/main.md
-  - 回路班: roots_electrical/main.md
-  - 戦略・ソフト班: roots_software/main.md
+    - Rootsとは: roots/detail_roots.md
+    - 開発ツール一覧: roots/development_tools.md
+    - 練習用フィールドセッティング: roots/field_setting.md
+    - 設計データ2017: roots/robot_jo2017.md
+    - 設計データ2019: roots/robot_jo2019.md
+    - MakerFaireTokyo2020: roots/event_mft2020.md
+  - 機械班:
+    - ロボット本体の設計データ: mechanical/detail_of_robot.md
+    - ロボット制作費: mechanical/cost_of_robot.md
+  - 回路班:
+    - メイン基板:
+      - メイン基板について: electrical/main_board/detail_main_pcb.md
+      - ファームウェアの書き込み: electrical/main_board/writing_mbed_firmware.md
+      - プログラムについて: electrical/main_board/mainboard_program.md
+    - モータドライバ基板:
+      - モータドライバ基板について: electrical/motor_driver/detail_motor_driver_pcb.md
+      - ファームウェアの書き込み: electrical/motor_driver/writing_motor_driver_firmware.md
+    - ボールセンサ基板: electrical/detail_ball_sensor_pcb.md
+    - 昇圧基板: electrical/detail_booster_pcb.md
+    - エンコーダ基板: electrical/detail_encoder_pcb.md
+    - Elecrowへの基板発注方法: electrical/how_to_order_elecrow_pcb.md
+  - 戦略・ソフト班: game_software/main.md
   - リンク集: links.md
   - このウェブサイトのライセンス: license.md
     
