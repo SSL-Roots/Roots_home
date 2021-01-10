@@ -66,15 +66,17 @@ nav:
     - 人間の役割: robocup_ssl/human_roles.md
   - Roots:
     - Rootsとは: roots/detail_roots.md
-    - 開発ツール一覧: roots/development_tools.md
     - 練習用フィールドセッティング: roots/field_setting.md
     - 設計データ2017: roots/robot_jo2017.md
     - 設計データ2019: roots/robot_jo2019.md
-    - MakerFaireTokyo2020: roots/event_mft2020.md
+    - イベント:
+      - MakerFaireTokyo2020: roots/events/202010_mft.md
     - 機械班:
+      - 開発ツール: roots/mech/development_tools.md
       - ロボット本体の設計データ: roots/mech/detail_of_robot.md
       - ロボット制作費: roots/mech/cost_of_robot.md
     - 回路班:
+      - 開発ツール: roots/elec/development_tools.md
       - メイン基板:
         - メイン基板について: roots/elec/main_board/detail_main_pcb.md
         - ファームウェアの書き込み: roots/elec/main_board/writing_mbed_firmware.md
@@ -86,7 +88,8 @@ nav:
       - 昇圧基板: roots/elec/detail_booster_pcb.md
       - エンコーダ基板: roots/elec/detail_encoder_pcb.md
       - Elecrowへの基板発注方法: roots/elec/how_to_order_elecrow_pcb.md
-    - 戦略・ソフト班: roots/game_software/main.md
+    - 戦略ソフト班: 
+      - 開発ツール: roots/soft/development_tools.md
   - リンク集: links.md
   - このウェブサイトのライセンス: license.md
     
