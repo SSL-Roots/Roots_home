@@ -1,4 +1,7 @@
 # Elecrowへの基板発注方法
+
+`このページでは2017年モデルの設計資料を紹介します`
+
 EAGLEで設計した基板を[Elecrow](https://www.elecrow.com/)へ発注する手順を記します。
 
 [Elecrow](https://www.elecrow.com/)のカテゴリからSERVICESをクリックします。  

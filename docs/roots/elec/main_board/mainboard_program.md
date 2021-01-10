@@ -1,5 +1,7 @@
 # プログラム解説　メインボード編
 
+`このページでは2017年モデルの設計資料を紹介します`
+
 ## メインボード各モジュール説明
 <img src="https://lh3.googleusercontent.com/K6mFlLe-W8VUOUskYSjTlpmzO0QEuUa8c_eoYfTTlNq0B0L6sJ9MilZLASQSKEprbomLaqkch4jEpYA=w1080-h1765-rw" width="1080px">
 各モジュール機能

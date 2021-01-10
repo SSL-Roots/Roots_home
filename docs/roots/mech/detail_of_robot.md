@@ -1,5 +1,6 @@
 # ロボット本体の設計データ
 
+`このページでは2017年モデルの設計資料を紹介します`
 ## CADスクリーンショット
 ![Full Assembly](../../images/roots_mechanical/full_assembly.png)
 
