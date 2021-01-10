@@ -71,22 +71,22 @@ nav:
     - 設計データ2017: roots/robot_jo2017.md
     - 設計データ2019: roots/robot_jo2019.md
     - MakerFaireTokyo2020: roots/event_mft2020.md
-  - 機械班:
-    - ロボット本体の設計データ: mechanical/detail_of_robot.md
-    - ロボット制作費: mechanical/cost_of_robot.md
-  - 回路班:
-    - メイン基板:
-      - メイン基板について: electrical/main_board/detail_main_pcb.md
-      - ファームウェアの書き込み: electrical/main_board/writing_mbed_firmware.md
-      - プログラムについて: electrical/main_board/mainboard_program.md
-    - モータドライバ基板:
-      - モータドライバ基板について: electrical/motor_driver/detail_motor_driver_pcb.md
-      - ファームウェアの書き込み: electrical/motor_driver/writing_motor_driver_firmware.md
-    - ボールセンサ基板: electrical/detail_ball_sensor_pcb.md
-    - 昇圧基板: electrical/detail_booster_pcb.md
-    - エンコーダ基板: electrical/detail_encoder_pcb.md
-    - Elecrowへの基板発注方法: electrical/how_to_order_elecrow_pcb.md
-  - 戦略・ソフト班: game_software/main.md
+    - 機械班:
+      - ロボット本体の設計データ: roots/mech/detail_of_robot.md
+      - ロボット制作費: roots/mech/cost_of_robot.md
+    - 回路班:
+      - メイン基板:
+        - メイン基板について: roots/elec/main_board/detail_main_pcb.md
+        - ファームウェアの書き込み: roots/elec/main_board/writing_mbed_firmware.md
+        - プログラムについて: roots/elec/main_board/mainboard_program.md
+      - モータドライバ基板:
+        - モータドライバ基板について: roots/elec/motor_driver/detail_motor_driver_pcb.md
+        - ファームウェアの書き込み: roots/elec/motor_driver/writing_motor_driver_firmware.md
+      - ボールセンサ基板: roots/elec/detail_ball_sensor_pcb.md
+      - 昇圧基板: roots/elec/detail_booster_pcb.md
+      - エンコーダ基板: roots/elec/detail_encoder_pcb.md
+      - Elecrowへの基板発注方法: roots/elec/how_to_order_elecrow_pcb.md
+    - 戦略・ソフト班: roots/game_software/main.md
   - リンク集: links.md
   - このウェブサイトのライセンス: license.md
     
