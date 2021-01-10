@@ -1,14 +1,12 @@
 # 回路班の開発ツール
 
-`このページでは2017年モデルの設計資料を紹介します`
-
 ## EAGLE
 
 無料で使用できる回路用のCADソフトです．
 作成する基板のサイズ制限などがあります．
 無料で使う範囲でも十分利用できますがメイン基板作成にはホビーアカウントがあった方がいいでしょう．
 
-入手先：https://www.autodesk.com/products/eagle/overview
+[EAGLEダウンロードページ](https://www.autodesk.com/products/eagle/overview)
 
 作った基板は基板製作の会社へ発注します．
 はんだ付けはメンバーで行っています．

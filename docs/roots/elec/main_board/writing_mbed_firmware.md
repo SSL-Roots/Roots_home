@@ -4,12 +4,14 @@
 
 メインマイコンにはmbedを使用しています。
 
-## 1. ARMmbedのサイトにSignUpする。
+## 1. ARMmbedのサイトにSignUpする
+
 1. [ARMmbedsite](https://developer.mbed.org/accounts/login/?next=%2Fcompiler%2F)に移動する
 2. Signupボタンを押す。
 3. 必要事項を記入する。
 
-## 2. プログラムをインポートする。(Platformの選択方法も含む）
+## 2. プログラムをインポートする(Platformの選択方法も含む）
+
 1. "Workspace Management"のYour Program Workspace is empty. You can import a program or create a new one.の”import a program"をクリック。
 2. "Add Platform"のウィンドウのAdd Platformのボタンを押す。
 3. 左サイドメニュー（Filter）の”Target Vendor"の”STMicroelectronics"にチェックを入れる。
@@ -19,11 +21,13 @@
 7. 右サイドバーにあるImport into Compilerボタンをクリック。
 8. "Import Program"ウィンドウのImportボタンをクリック。　※Update:チェックは入れない（最新版LibのCANに不具合あり）
 
-## 3. プログラムをビルドする。
+## 3. プログラムをビルドする
+
 1. ビルド対象のプログラムを選択→"Compiler"ページの上部青帯内の文字が選択したプログラムになって入ればOK。
 2. 上部メニューバーのコンパイルボタンをクリック。
 3. mbedに書き込むbinファイルが生成される。
 
-## 4. プログラムを書き込む。
+## 4. プログラムを書き込む
+
 1. mbedをPCに接続する。
 2. 生成したbinファイルをドラッグ&ドロップで認識しているmbedに書き込む。
