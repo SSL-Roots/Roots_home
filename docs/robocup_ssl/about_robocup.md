@@ -22,5 +22,3 @@ SSLの詳細は別ページで説明しますが，特徴は小さなロボッ�
 
 - [ROBOCUP SMALL SIZE LEAGUE](https://ssl.robocup.org/)
 - [TDP公開場所](https://ssl.robocup.org/team-description-papers/)
-
-
