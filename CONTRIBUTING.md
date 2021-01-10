@@ -53,6 +53,3 @@ HTMLやCSSの知識は不要です。
 GitHubサーバ上の`gh-pages`ブランチへマージされます。
 
 実際にWebsiteとして表示されるのは`gh-pages`のコンテンツです。
-
-[.github/workflows/deploy.yaml]("./.github/workflows/deploy.yaml")を編集すれば、
-「`master`には置くけど、`gh-pages`にはマージしないファイル」を設定できます。
