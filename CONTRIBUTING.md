@@ -12,31 +12,24 @@
 
 `Roots_home`の見栄えをローカルでチェックしてから、GitHubにPushしましょう。
 
-### 環境設定
+`Roots_home`は[MkDocs](https://www.mkdocs.org/)というPythonベースのソフトウェアによって生成されています。
+このソフトウェアをローカル環境に構築するのは手間なので、
+[Docker](https://www.docker.com/get-started)を使用して、環境構築を省きます。
 
-`Roots_home`は[MkDocs](https://www.mkdocs.org/)というPythonベースのソフトウェによって生成されています。
-
-[MkDocsのインストール手順](https://www.mkdocs.org/#installation)
-に従ってインストールしてください。
-
-ほとんどの場合、下記コマンドを実行するだけでインストールできます。
-
-```sh
-# python3環境です
-$ pip install mkdocs
-```
-
-### Roots_homeをローカルでテストする
-
-`Roots_home`をクローンし、webページを生成してブラウザで表示します。
+Dockerをインストールした環境で、
+次のコマンドで`Roots_home`をクローンし、webページを生成してブラウザで表示します。
 
 ```sh
 $ git clone https://github.com/SSL-Roots/Roots_home
 $ cd Roots_home
-$ mkdocs serve
+$ ./build.sh
+
+...
+INFO     -  Documentation built in 1.55 seconds
+INFO     -  [13:02:40] Serving on http://127.0.0.1:8000/Roots_home/
 ```
 
-最後の`mkdocs serve`を実行したらブラウザで
+コマンドを実行したらブラウザで
 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 にアクセスしましょう。
 
