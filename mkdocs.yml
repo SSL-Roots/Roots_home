@@ -13,9 +13,9 @@ theme:
   language: ja
   logo: img/site_logo.png  # ページ左上のロゴ
   favicon: img/site_favicon.png  # ファビコン（ブラウザのタブに表示されるやつ）
-  # features: 
-    # - navigation.instant  # XHRがどうのこうの
-    # - navigation.tabs  # ページ上にタブを付けられる
+  features:
+    - navigation.tabs  # ページ上にタブを付けられる
+    - navigation.expand  # ページ階層を常に展開する
   # google_analytics:
   icon:
     repo: fontawesome/brands/github  # ページ右上に表示するリポジトリのアイコン
