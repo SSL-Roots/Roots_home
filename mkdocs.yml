@@ -49,8 +49,8 @@ markdown_extensions:
   - pymdownx.highlight  # コードブロック用
   - pymdownx.superfences  # コードブロック用
   - pymdownx.emoji:  # アイコンが使える
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 site_url: https://ssl-roots.github.io/Roots_home/  # 404を正しく表示させるために必要
 

@@ -8,7 +8,7 @@
 
 Rootsは過去2回、Maker Faire TokyoでSSLの展示をしました。
 
-![MFTフィールド](../../img/roots/fieldSetting/MFT_Field.JPG)
+![MFTフィールド](../img/roots/fieldSetting/MFT_Field.JPG)
 
 この画像のように、公式フィールドと比べるととても小さいです。
 
@@ -88,11 +88,11 @@ SSL-Visionの使い方や、フィールドサイズの定義等は
 持ち運びやすく、収納しやすくなるのでおすすめです。
 また、滑り止め用のゴムシートを下に敷くとフィールドを固定できます。
 
-![foldableField1](../../img/roots/fieldSetting/foldableField1.JPG)
+![foldableField1](../img/roots/fieldSetting/foldableField1.JPG)
 
-![foldableField2](../../img/roots/fieldSetting/foldableField2.JPG)
+![foldableField2](../img/roots/fieldSetting/foldableField2.JPG)
 
-![foldableField3](../../img/roots/fieldSetting/foldableField3.JPG)
+![foldableField3](../img/roots/fieldSetting/foldableField3.JPG)
 
 ### カメラを配置する
 
@@ -101,7 +101,7 @@ SSL-Visionの使い方や、フィールドサイズの定義等は
 
 ここではカメラ位置を**固定しない**でください。次の手順で、カメラ画像を見ながら位置を決定します。
 
-![cameraOnPole](../../img/roots/fieldSetting/cameraOnPole.JPG)
+![cameraOnPole](../img/roots/fieldSetting/cameraOnPole.JPG)
 
 ### SSL-Visionを起動し、カメラ画像を取得する
 
@@ -145,7 +145,7 @@ SSL-Visionは白線を検出してカメラ画像を補正します。
 
 チョークを使うと、白線を簡単に引くことができ、線の修正も簡単にできます。
 
-![drawingLines](../../img/roots/fieldSetting/drawingLines.JPG)
+![drawingLines](../img/roots/fieldSetting/drawingLines.JPG)
 
 ### SSL-Visionでフィールドをキャリブレーションする
 
@@ -160,15 +160,15 @@ SSL-Visionは白線を検出してカメラ画像を補正します。
 
 キャリブレーションの最中は、白線が隠れないようにフィールドから人・モノを取り除いてください。
 
-![ssl-vision1](../../img/roots/fieldSetting/ssl-vision1.png)
+![ssl-vision1](../img/roots/fieldSetting/ssl-vision1.png)
 
-![ssl-vision2](../../img/roots/fieldSetting/ssl-vision2.png)
+![ssl-vision2](../img/roots/fieldSetting/ssl-vision2.png)
 
 
 キャリブレーションが成功するとSSL-Visionはフィールド情報を出力します。
 フィールド情報はGraphical Clientで確認できます。```ssl-vision/bin/graphicalClient```を実行してください。
 
-![graphical1](../../img/roots/fieldSetting/graphical1.png)
+![graphical1](../img/roots/fieldSetting/graphical1.png)
 
 ### フィールドにロボットマーカとボールを置く
 
@@ -178,9 +178,9 @@ SSL-Visionの操作方法は[ここ](https://github.com/RoboCup-SSL/ssl-vision/w
 マーカの黄色・緑色や、マーカのピンク色・ボールのオレンジ色は外光の影響により区別がつかなくなるかもしれません。
 その場合は外光を調整してください。その調整が難しい場合は、カメラのシャッターパラメータを変更すると良いです。
 
-![ssl-vision3](../../img/roots/fieldSetting/ssl-vision3.png)
+![ssl-vision3](../img/roots/fieldSetting/ssl-vision3.png)
 
 この作業が終わるとSSL-Visionはロボット・ボール座標を出力します。
 フィールド情報と同様にGraphical Clientで確認して下さい。
 
-![complete-vision3](../../img/roots/fieldSetting/complete.png)
+![complete-vision3](../img/roots/fieldSetting/complete.png)

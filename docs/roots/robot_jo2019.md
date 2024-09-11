@@ -2,7 +2,7 @@
 
 ロボカップジャパンオープン2019で製作したロボットとソフトウェアの設計データです。
 
-![robots_top](../../img/roots/2019/robots_top.jpeg)
+![robots_top](../img/roots/2019/robots_top.jpeg)
 
 ## 戦略ソフト
 
@@ -49,10 +49,10 @@ GitHubリポジトリやmbedリポジトリにアップロードしたデータ�
 
 ## 写真
 
-![robots_front](../../img/roots/2019/robots_front.jpeg)
+![robots_front](../img/roots/2019/robots_front.jpeg)
     
-![robot_body_side](../../img/roots/2019/robot_body_side.jpeg)
+![robot_body_side](../img/roots/2019/robot_body_side.jpeg)
     
-![robot_body_top](../../img/roots/2019/robot_body_top.jpeg)
+![robot_body_top](../img/roots/2019/robot_body_top.jpeg)
     
-![lined_up_robots](../../img/roots/2019/lined_up_robots.jpeg)
+![lined_up_robots](../img/roots/2019/lined_up_robots.jpeg)
