@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-workflow_dispatch:
+  workflow_dispatch:
 
 # Reference: https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions-material-for-mkdocs 
 
