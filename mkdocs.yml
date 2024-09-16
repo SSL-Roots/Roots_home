@@ -90,6 +90,8 @@ nav:
       - Elecrowへの基板発注方法: roots/elec/how_to_order_elecrow_pcb.md
     - 戦略ソフト班: 
       - 開発ツール: roots/soft/development_tools.md
+  - もっと小さいロボット:
+    - コンセプト: vssl/concept.md
   - リンク集: links.md
   - このウェブサイトのライセンス: license.md
     
