@@ -8,5 +8,6 @@
 ---
 
 - :material-soccer: [ロボカップSSL公式webサイト](https://ssl.robocup.org/)
+- :material-soccer: [ロボカップSSL Japan公式webサイト](https://robocup-ssl-japan.github.io/home/)
 - :material-file-outline: [Team Description Paper 公開場所](https://ssl.robocup.org/team-description-papers/)
     - 世界大会参加チームの技術情報が公開されています
