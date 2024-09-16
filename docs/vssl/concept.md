@@ -24,8 +24,16 @@ RoboCup SSL（ロボカップサッカー小型ロボットリーグ）では直
 が、
 もっと小さいSSLロボット作りに挑戦しています。
 
-![](../img/roots_logo_small.png)
-[![](../img/vssl/op_amp.png)](https://sites.google.com/view/op-amp/home/activity)
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+  <figure style="margin: 0 10px;">
+    <img src="../../img/roots_logo_small.png" width="300" />
+  </figure>
+  <figure style="margin: 0 10px;">
+    <a href="https://sites.google.com/view/op-amp/home/activity">
+      <img src="../../img/vssl/op_amp.png" width="300" />
+    </a>
+  </figure>
+</div>
 
 ## 現在の取り組みについて
 
@@ -103,7 +111,3 @@ Rootsが製作したロボットのスペックは以下の通りです。
 ![](../img/vssl/vssl_roots_robot04.png)
 ![](../img/vssl/vssl_roots_robot05.png)
 ![](../img/vssl/vssl_roots_robot06.png)
-
-
-
-
