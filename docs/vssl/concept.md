@@ -79,7 +79,7 @@ RoboCup SSL公式が提供する[SSL-Vision](https://github.com/RoboCup-SSL/ssl-
 
 ## ロボットのスペック
 
-Rootsが制作したロボットのスペックは以下の通りです。
+Rootsが製作したロボットのスペックは以下の通りです。
 
 ### 2024年版のロボットスペック
 
